@@ -1,4 +1,3 @@
-# NutriLens-AI-App
 # NutriLens AI 
 
 ![NutriLens Logo](assets/nutri%20logo.png)
