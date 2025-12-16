@@ -1,0 +1,141 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment variables (DO NOT UPLOAD API KEYS!)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# MongoDB local files
+/data/
+/mongodb/
+*.lock
+*.pid
+*.ns
+/local_data/  # If you have local JSON database
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Streamlit cache and config
+.streamlit/
+__pycache__/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.bak
+*.swp
+
+# Ngrok
+ngrok.yml
+ngrok_url.txt
+ngrok.log
+
+# Database files (if using SQLite)
+*.db
+*.sqlite
+*.sqlite3
+
+# User uploaded files (don't upload user data!)
+uploads/
+user_images/
+profile_photos/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Excel/CSV exports
+*.xlsx
+*.csv
+*.xls
+
+# PDF reports
+*.pdf
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# Linux
+*~
+
+# Compression files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
